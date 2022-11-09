@@ -1,0 +1,50 @@
+img{
+    width:400px;
+    height:400px;
+}
+
+.footer{
+position:fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-weight:bold;
+}
+#camera{
+    width: 600;
+    height: 500;
+    border-color: aqua;
+}
+
+#result1{
+    width:500px;
+    height:450px;
+    border-radius:10px;
+    padding:30px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#result2{
+    width:500px;
+    height:450px;
+    border-radius:10px;
+    padding:30px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#result3{
+    width:500px;
+    height:450px;
+    border-radius:10px;
+    padding:30px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+border-radius: 140px;
+}
